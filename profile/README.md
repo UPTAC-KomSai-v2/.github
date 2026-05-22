@@ -64,11 +64,8 @@ The content and implementations inside each repository belong to their respectiv
 ## Maintained By
 
 Mr. Samson Jr. D. Rollo
-
 Computer Science Instructor
-
 University of the Philippines Tacloban College
-
 Tacloban City, Philippines
 
 ---
