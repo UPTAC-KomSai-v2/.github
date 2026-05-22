@@ -47,7 +47,7 @@ Example:
 
 ```text
 cmsc127-library-system
-cmsc191-flood-prediction
+cmsc12-mario-game-remastered
 capstone-smart-farming
 ```
 
